@@ -1,0 +1,66 @@
+.menu-title {
+  text-align: center;
+  width: 800px;
+}
+
+.menu-section-title {
+  text-align: center;
+  width: 800px;
+}
+h1 {
+  font-family: Arial;
+  font-size: 40px;
+  margin: 5 auto;
+  color: black;
+}
+h2 {
+  font-family: Arial;
+  font-size: 30px;
+  margin: 5 auto;
+  color: orange;
+  justify-content: center;
+}
+h3 {
+  font-family: Arial;
+  font-size: 20px;
+  margin: 0 auto;
+  color: red;
+}
+h4 {
+  font-family: Arial;
+  font-size: 20px;
+  margin: 5 auto;
+  color: black;
+  
+}
+p {
+  font-family: Arial;
+  font-size: 15px;
+  margin: 5 auto;
+  padding: 5px;
+  color: black;
+}
+.imagegallery {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  height: auto;
+}
+.socialmediaicons {
+  display: flex;
+  justify-content: center;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+.socialmediaicons img {
+  padding: 12px;
+}
+.copyright {
+  text-align: center;
+}
+#logo{
+  display: none;
+}
+.hidden-on-load {
+  opacity: 0;
+}
